@@ -62,6 +62,7 @@ Click on a tile to change the accent color of the theme:
   Array.prototype.forEach.call(buttons, function(button) {
     button.addEventListener("click", function() {
       document.body.dataset.mdColorAccent = this.dataset.mdColorAccent;
+      console.log(this.dataset.mdColorAccent);
     })
   })
 </script>

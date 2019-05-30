@@ -35,3 +35,10 @@ Updated to this new page on April 13, 2018 at 04:48 [(GMT+8)](https://time.is/GM
 ## License
 
 Licensed under the MIT License.
+
+
+
+<script>
+  document.body.dataset.mdColorPrimary = "indigo";
+  document.body.dataset.mdColorAccent = "deep-orange";  
+</script>
