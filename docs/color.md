@@ -1,6 +1,6 @@
 ## Primary colors
 
-> Default: `Teal`
+> Default: `Indigo`
 
 Click on a tile to change the primary color of the theme:
 
@@ -36,7 +36,7 @@ Click on a tile to change the primary color of the theme:
 
 ## Accent colors
 
-> Default: `Blue`
+> Default: `Deep Orange`
 
 Click on a tile to change the accent color of the theme:
 
