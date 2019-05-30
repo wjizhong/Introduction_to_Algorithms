@@ -18,8 +18,8 @@ theme:
   custom_dir: 'custom/'
   favicon: 'assets/favicon.png'
   palette:
-    primary: 'Teal'
-    accent: 'Blue'
+    primary: 'indigo'
+    accent: 'deep-orange'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -40,11 +40,6 @@ extra_javascript:
   - 'js/katex.js'
   - 'https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js'
   - 'https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js'
-
-# Google Analytics
-google_analytics:
-  - 'UA-117404761-1'
-  - 'auto'
 
 # Extensions
 markdown_extensions:
